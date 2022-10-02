@@ -1,8 +1,6 @@
 # hello-aspnetcorek8s
 
-Docker  
-Azure Container Registry  
-AKS  
+Deploying an containerized ASP.NET Core 3.0 Web API on Azure Container Registry and AKS.
 
 References:  
 https://www.youtube.com/watch?v=Po9jQS7WBDQ&ab_channel=JulioCasal  
