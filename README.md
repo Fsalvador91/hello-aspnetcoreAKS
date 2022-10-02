@@ -1,4 +1,4 @@
-# hello-aspnetcorek8s
+# hello-aspnetcoreAKS
 
 Deploying an containerized ASP.NET Core 3.0 Web API on Azure Container Registry and AKS.
 
