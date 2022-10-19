@@ -15,7 +15,7 @@ variables:
   imageRepository: 'helloaspnetcore'
   containerRegistry: 'felipesalvador01.azurecr.io'
   dockerfilePath: '**/Dockerfile'
-  tag: '$(Build.BuildId)'
+  tag: '$(Build.BuildNumber)'
   imagePullSecret: 'felipesalvador01cda1-auth'
 
   # Agent VM image name
